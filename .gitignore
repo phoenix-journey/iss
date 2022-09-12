@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# my .gitignore
+space_station
+my_get_request.py
